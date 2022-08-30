@@ -6,4 +6,9 @@
 package com.vehicles;
 
 public abstract class VehicleManufacturer {
+    private String vehicleName;
+    private long vehicleModelName;
+    private String vehicleType;
+    
+    
 }
