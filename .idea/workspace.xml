@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44a7a51-7384-4e6f-bab4-44f24410f701" name="Changes" comment="Declare a getter and setter method in VehicleManufacturer.java class">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/VehicleManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/VehicleManufacturer.java" afterDir="false" />
-    </list>
+    <list default="true" id="e44a7a51-7384-4e6f-bab4-44f24410f701" name="Changes" comment="Create a bike class in Bike.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661892755933</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Define a abstract method in VehicleManufacturer.java class">
+      <created>1661892969963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661892969963</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create a Vehicle class in Vehicle.java">
+      <created>1661893061842</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661893061842</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create a bike class in Bike.java">
+      <created>1661893107092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661893107092</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +132,10 @@
     <MESSAGE value="declare a private instant variable in VehicleManufacturer.java.class" />
     <MESSAGE value="Create a Constructor in VehicleManufacturer.java class" />
     <MESSAGE value="Declare a getter and setter method in VehicleManufacturer.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Declare a getter and setter method in VehicleManufacturer.java class" />
+    <MESSAGE value="Define a abstract method in VehicleManufacturer.java class" />
+    <MESSAGE value="Create a Vehicle class in Vehicle.java" />
+    <MESSAGE value="Create a bike class in Bike.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a bike class in Bike.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
