@@ -7,6 +7,12 @@ package com.vehicles;
 
 public class Car extends VehicleManufacturer implements Vehicle {
     
+    public Car ( ) {
+    }
+    
+    public Car ( String vehicleName , long vehicleModelName , String vehicleType ) {
+        super ( vehicleName , vehicleModelName , vehicleType );
+    }
     
     /**
      * If the vehicle type is a sports car, return 250, otherwise if the vehicle type is a sedan, return 170, otherwise
