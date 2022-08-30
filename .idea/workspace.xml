@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44a7a51-7384-4e6f-bab4-44f24410f701" name="Changes" comment="Created a Interface Vehicle.java">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Vehicle.java" afterDir="false" />
+    <list default="true" id="e44a7a51-7384-4e6f-bab4-44f24410f701" name="Changes" comment="Define Parameter in interface Vehicle.java class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Bike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661893264344</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Define Parameter in interface Vehicle.java class">
+      <created>1661893497961</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661893497961</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +160,8 @@
     <MESSAGE value="Create a Vehicle class in Vehicle.java" />
     <MESSAGE value="Create a bike class in Bike.java" />
     <MESSAGE value="Created a Interface Vehicle.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a Interface Vehicle.java" />
+    <MESSAGE value="Define Parameter in interface Vehicle.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Define Parameter in interface Vehicle.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
