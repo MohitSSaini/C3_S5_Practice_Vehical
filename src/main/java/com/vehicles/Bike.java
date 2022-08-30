@@ -12,4 +12,10 @@ public class Bike extends VehicleManufacturer {
         return null;
     }
     
+    public Bike ( ) {
+    }
+    
+    public Bike ( String vehicleName , long vehicleModelName , String vehicleType ) {
+        super ( vehicleName , vehicleModelName , vehicleType );
+    }
 }
