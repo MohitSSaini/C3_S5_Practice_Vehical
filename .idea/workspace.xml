@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44a7a51-7384-4e6f-bab4-44f24410f701" name="Changes" comment="Define Parameter in interface Vehicle.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Bike.java" afterDir="false" />
+    <list default="true" id="e44a7a51-7384-4e6f-bab4-44f24410f701" name="Changes" comment="Define constructor and supper class Method in Bike extends VehicleManufacture class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661893497961</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Define Override Method in Bike extends VehicleManufacture class">
+      <created>1661893963847</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661893963847</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Define constructor and supper class Method in Bike extends VehicleManufacture class">
+      <created>1661894009395</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661894009395</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +178,10 @@
     <MESSAGE value="Create a bike class in Bike.java" />
     <MESSAGE value="Created a Interface Vehicle.java" />
     <MESSAGE value="Define Parameter in interface Vehicle.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Define Parameter in interface Vehicle.java class" />
+    <MESSAGE value="Define Override Method in Bike extends VehicleManufacture class" />
+    <MESSAGE value="Define constructor Method in Bike extends VehicleManufacture class" />
+    <MESSAGE value="Define constructor and supper class Method in Bike extends VehicleManufacture class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Define constructor and supper class Method in Bike extends VehicleManufacture class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
